@@ -9,6 +9,5 @@ Numpy, Pandas, Matplotlib, Seaborn
 
 ### Task Video :
 
-https://user-images.githubusercontent.com/90971288/154935164-3a0dc977-f145-4b75-b37c-0db75a49e98c.mp4
-
+https://www.linkedin.com/posts/kshitij-borhade-a1a526230_lgmviptask-1-exploratory-data-analysis-eda-on-terrorism-dataset-activity-7002188516910608384-gBv6?utm_source=share&utm_medium=member_desktop
 
